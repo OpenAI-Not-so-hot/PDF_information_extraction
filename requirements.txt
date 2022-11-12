@@ -7,3 +7,4 @@ black
 tenacity
 trafilatura
 flake8
+PyPDF2 
